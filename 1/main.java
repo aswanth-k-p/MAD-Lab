@@ -1,7 +1,3 @@
-
-MainActivity.java
-
-
 package com.example.userlogin;
 
 import android.os.Bundle;
